@@ -6,6 +6,3 @@
 * 책 문제 풀이 : Problems
   * programmers, boj 문제 ->  https://github.com/ujin2021/Study_Algorithm 에 추가
   * 이 외 문제들 -> 현재 repository에 저장
-* 목표
-  1. 매일 이론 한 chapter (총 8개 chapter)
-  2. 매일 실전문제 2문제씩
